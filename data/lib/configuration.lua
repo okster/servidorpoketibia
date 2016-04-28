@@ -1,12 +1,12 @@
 useOTClient = true  -- coloque false caso n for usar o OTClient!!!  --alterado v1.7
 
 useKpdoDlls = true -- coloque true pra usar as barras de cooldown.
-intervalToRegrowBushAndStones = 15 -- this also affects dig (in seconds) / isso afeta dig também (em segundos)
+intervalToRegrowBushAndStones = 15 -- this also affects dig (in seconds) / isso afeta dig tambÃ©m (em segundos)
 nurseHealsOnlyInPZ = true -- true = precisa estar em pz pra falar com a nurse
 accountManagerOutfit = {lookType = 304, lookHead = 1, lookBody = 1, lookLegs = 1, lookFeet = 1}
 accountManagerRandomPokemonOutfit = true -- se true, quando o acc manager logar, vai ter uma outfit de pokemon aleatoria
-reloadHighscoresWhenUsingPc = true -- talvez dê lag, lembrando que tem uma opção no config.lua que indica o intervalo do update das highscores
-backupPos = {x = 4, y = 3, z = 10} -- alguma pos para criar monstros quando tentar sair do fly/ride/surf em lugares que não são muito espaçosos
+reloadHighscoresWhenUsingPc = true -- talvez dÃª lag, lembrando que tem uma opÃ§Ã£o no config.lua que indica o intervalo do update das highscores
+backupPos = {x = 4, y = 3, z = 10} -- alguma pos para criar monstros quando tentar sair do fly/ride/surf em lugares que nÃ£o sÃ£o muito espaÃ§osos
 nurseHealsPokemonOut = true
 maximumBoost = 50
 boost_rate = 1.8
@@ -20,7 +20,7 @@ canFishWhileSurfingOrFlying = false
 allEvolutionsCanBeInduzedByStone = true
 evolutionByStoneRequireLevel = true
 PlayerSpeed = 500
-playerExperienceRate = 1.0
+playerExperienceRate = 5.8
 attackRate = 1
 specialoffenseRate = 3.55
 levelFactor = 1.4
@@ -4386,7 +4386,7 @@ effectiveness = {
 -- defense = defense por level
 -- agility = speed base dos pokes
 -- specialattack = special attack que ganha por level
--- exp = exp que dá a cada level que tem (somada a exp base, no xml do poke)                 
+-- exp = exp que dÃ¡ a cada level que tem (somada a exp base, no xml do poke)                 
 -- vitality = vida que o poke ganha pra cada vitality que tem
 
 pokes = {          --alterado v1.8 \/\/ toda a tabela, recebeu um novo 'atributo', wildLvl...
@@ -7169,17 +7169,17 @@ passivesChances = {
                 ["Sneasel"] = 15,
              },
 }
-------------- Posiçoes de entrada e saida do safari! ----------------------
+------------- PosiÃ§oes de entrada e saida do safari! ----------------------
 SafariEnter = {x=1144, y=1411, z=7}    --alterado v1.8
 SafariOut = {x = 1152, y = 1411, z = 7} 
 ------------- POS QUANDO O PLAYER MORRER NO PVP ---------------------------
 posBackPVP = {x=973, y=1066, z=13}  --alterado v1.7
 
-------------- Configuraçoes da Golden Arena ---------------------------------           --alterado v1.7  \/\/ algumas pos, soh pro novo mapa!
+------------- ConfiguraÃ§oes da Golden Arena ---------------------------------           --alterado v1.7  \/\/ algumas pos, soh pro novo mapa!
 timeToWaves = 30  --time entre waves, em segs...  --alterado v1.7  -- obrigatorio pegar pelo menos isso!
 ---------
-GoldenUpper = {x=1212, y=1113, z=0}    --posiçao da ponta superior esquerda da arena!
-GoldenLower = {x=1240, y=1123, z=0}    --posiçao da ponta inferior direita da arena!
+GoldenUpper = {x=1212, y=1113, z=0}    --posiÃ§ao da ponta superior esquerda da arena!
+GoldenLower = {x=1240, y=1123, z=0}    --posiÃ§ao da ponta inferior direita da arena!
 ---------
 posGolden = {x=542, y=680, z=0}  --pos da golden pra onde os players vao ser teleportados!
 posBackGolden = {x=547, y=677, z=7}     --pos da golden pra onde os players vao ser teleportados ao morrerem e quando acabar a golden...
@@ -7191,7 +7191,7 @@ posisGolden = {
 {x=535, y=680, z=6},  
 {x=532, y=682, z=6},
 {x=541, y=678, z=6},
-{x=542, y=682, z=6},    --aki vcs colocam todas as posiçoes q os monstros vao nascer dentro da golden arena...
+{x=542, y=682, z=6},    --aki vcs colocam todas as posiÃ§oes q os monstros vao nascer dentro da golden arena...
 {x=539, y=684, z=6},    --lembrando q o numero de posis q vcs colocarem tem q ser igual ao numero de pokes q vcs vao colocar ali embaixo!
 {x=535, y=683, z=6},
 {x=543, y=680, z=6},
@@ -7214,7 +7214,7 @@ wavesGolden = {                 --waves q vao ter na golden arena... o numero de
 [12] = {"Raticate", "Ekans", "Arbok", "Koffing", "Ponyta", "Bulbasaur", "Charmander", "Squirtle", "Pidgeotto"},
 [13] = {"", "Shiny Blastoise", "", "", "", "", "Shiny Venusaur", "", "Shiny Charizard"},                        
 [14] = {"Raticate", "Ekans", "Arbok", "Koffing", "Ponyta", "Bulbasaur", "Charmander", "Squirtle", "Pidgeotto"}, 
-[15] = {"", "Shiny Gyarados", "", "", "", "", "", "", ""},   --o numero de espaços na tabela tem q ser o ms do numero de posis!!!                                                   
+[15] = {"", "Shiny Gyarados", "", "", "", "", "", "", ""},   --o numero de espaÃ§os na tabela tem q ser o ms do numero de posis!!!                                                   
 }
 ----------------------------------------------------------------------------------------------
 --> [HELDS] <--
@@ -7403,7 +7403,7 @@ pokesPrice = {
 ["Dragonite"] =  {price = 125000},
  
  
--- Segunda Geração
+-- Segunda GeraÃ§Ã£o
  
 ["Chikorita"] = {price = 3000},
 ["Bayleef"] = {price = 8000},
