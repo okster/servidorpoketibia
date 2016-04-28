@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="1469" centery="688" centerz="3" radius="1">
+    <monster name="Pidgeot" x="0" y="-1" z="3" spawntime="60"/>
+    <monster name="Noctowl" x="-1" y="0" z="3" spawntime="60"/>
+    <monster name="Pidgeotto" x="0" y="1" z="3" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1246" centery="926" centerz="3" radius="1">
+    <monster name="Murkrow" x="0" y="-1" z="3" spawntime="80"/>
+    <monster name="Murkrow" x="-1" y="0" z="3" spawntime="80"/>
+    <monster name="Murkrow" x="1" y="1" z="3" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1073" centery="1118" centerz="3" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="3" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1068" centery="1120" centerz="3" radius="1">
+    <monster name="Pidgeotto" x="1" y="-1" z="3" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1067" centery="1123" centerz="3" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="3" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1490" centery="676" centerz="4" radius="1">
+    <monster name="Noctowl" x="1" y="-1" z="4" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1231" centery="762" centerz="4" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="4" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="4" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1246" centery="762" centerz="4" radius="1">
+    <monster name="Paras" x="-1" y="-1" z="4" spawntime="60"/>
+    <monster name="Zubat" x="0" y="-1" z="4" spawntime="60"/>
+    <monster name="Geodude" x="1" y="-1" z="4" spawntime="60"/>
+    <monster name="Clefairy" x="-1" y="1" z="4" spawntime="60"/>
+    <monster name="Sandslash" x="0" y="1" z="4" spawntime="60"/>
+    <monster name="Sandshrew" x="1" y="1" z="4" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1170" centery="827" centerz="4" radius="1">
+    <monster name="Arbok" x="0" y="1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1164" centery="837" centerz="4" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1178" centery="837" centerz="4" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1162" centery="844" centerz="4" radius="1">
+    <monster name="Raticate" x="-1" y="0" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1174" centery="847" centerz="4" radius="1">
+    <monster name="Arbok" x="-1" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1164" centery="849" centerz="4" radius="1">
+    <monster name="Ekans" x="0" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1245" centery="926" centerz="4" radius="1">
+    <monster name="Murkrow" x="-1" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1249" centery="927" centerz="4" radius="1">
+    <monster name="Kadabra" x="-1" y="-1" z="4" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1060" centery="1121" centerz="4" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="4" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1565" centery="655" centerz="5" radius="1">
+    <monster name="Venomoth" x="1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1571" centery="656" centerz="5" radius="1">
+    <monster name="Venomoth" x="-1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1556" centery="658" centerz="5" radius="1">
+    <monster name="Venomoth" x="-1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1547" centery="659" centerz="5" radius="1">
+    <monster name="Venonat" x="-1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1568" centery="660" centerz="5" radius="1">
+    <monster name="Venonat" x="-1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1563" centery="661" centerz="5" radius="1">
+    <monster name="Butterfree" x="-1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1504" centery="664" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1548" centery="665" centerz="5" radius="1">
+    <monster name="Venomoth" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1555" centery="665" centerz="5" radius="1">
+    <monster name="Venonat" x="-1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1520" centery="666" centerz="5" radius="1">
+    <monster name="Hoothoot" x="-1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1564" centery="666" centerz="5" radius="1">
+    <monster name="Venomoth" x="0" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1497" centery="667" centerz="5" radius="1">
+    <monster name="Hoothoot" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1571" centery="667" centerz="5" radius="1">
+    <monster name="Butterfree" x="-1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1530" centery="669" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="-1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1507" centery="671" centerz="5" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1577" centery="671" centerz="5" radius="1">
+    <monster name="Venomoth" x="0" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1594" centery="672" centerz="5" radius="1">
+    <monster name="Venomoth" x="0" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1517" centery="673" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="-1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1585" centery="673" centerz="5" radius="1">
+    <monster name="Venomoth" x="0" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1580" centery="674" centerz="5" radius="1">
+    <monster name="Venonat" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1499" centery="675" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1527" centery="675" centerz="5" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="5" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1505" centery="680" centerz="5" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1515" centery="681" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1169" centery="760" centerz="5" radius="1">
+    <monster name="Spearow" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1181" centery="768" centerz="5" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1171" centery="772" centerz="5" radius="1">
+    <monster name="Spearow" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1179" centery="784" centerz="5" radius="1">
+    <monster name="Nidoran Female" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1237" centery="785" centerz="5" radius="1">
+    <monster name="Jigglypuff" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1173" centery="787" centerz="5" radius="1">
+    <monster name="Ekans" x="-1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1229" centery="790" centerz="5" radius="1">
+    <monster name="Jigglypuff" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1180" centery="791" centerz="5" radius="1">
+    <monster name="Ekans" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1236" centery="792" centerz="5" radius="1">
+    <monster name="Clefairy" x="-1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1150" centery="793" centerz="5" radius="1">
+    <monster name="Raticate" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1222" centery="793" centerz="5" radius="1">
+    <monster name="Clefairy" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1245" centery="794" centerz="5" radius="1">
+    <monster name="Jigglypuff" x="-1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1182" centery="796" centerz="5" radius="1">
+    <monster name="Nidoran Male" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1231" centery="797" centerz="5" radius="1">
+    <monster name="Clefairy" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1181" centery="804" centerz="5" radius="1">
+    <monster name="Ekans" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1146" centery="806" centerz="5" radius="1">
+    <monster name="Nidoran Male" x="-1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1155" centery="808" centerz="5" radius="1">
+    <monster name="Ekans" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1170" centery="809" centerz="5" radius="1">
+    <monster name="Raticate" x="1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1164" centery="810" centerz="5" radius="1">
+    <monster name="Ekans" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1181" centery="812" centerz="5" radius="1">
+    <monster name="Nidoran Male" x="-1" y="-1" z="5" spawntime="80"/>
+    <monster name="Raticate" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1151" centery="816" centerz="5" radius="1">
+    <monster name="Nidoran Male" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1160" centery="818" centerz="5" radius="1">
+    <monster name="Ekans" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1170" centery="818" centerz="5" radius="1">
+    <monster name="Nidoran Male" x="1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="991" centery="821" centerz="5" radius="1">
+    <monster name="Pikachu" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="985" centery="822" centerz="5" radius="1">
+    <monster name="Pikachu" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1034" centery="826" centerz="5" radius="1">
+    <monster name="Noctowl" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1043" centery="826" centerz="5" radius="1">
+    <monster name="Hoothoot" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1013" centery="828" centerz="5" radius="1">
+    <monster name="Noctowl" x="1" y="-1" z="5" spawntime="130"/>
+  </spawn>
+  <spawn centerx="1005" centery="829" centerz="5" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1032" centery="832" centerz="5" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1017" centery="833" centerz="5" radius="1">
+    <monster name="Hoothoot" x="-1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1048" centery="835" centerz="5" radius="1">
+    <monster name="Hoothoot" x="-1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1002" centery="836" centerz="5" radius="1">
+    <monster name="Noctowl" x="-1" y="-1" z="5" spawntime="130"/>
+  </spawn>
+  <spawn centerx="979" centery="837" centerz="5" radius="1">
+    <monster name="Pikachu" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1012" centery="840" centerz="5" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1037" centery="840" centerz="5" radius="1">
+    <monster name="Noctowl" x="1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1237" centery="925" centerz="5" radius="1">
+    <monster name="Murkrow" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1248" centery="925" centerz="5" radius="1">
+    <monster name="Murkrow" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1241" centery="926" centerz="5" radius="1">
+    <monster name="Persian" x="-1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1244" centery="929" centerz="5" radius="1">
+    <monster name="Murkrow" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1636" centery="935" centerz="5" radius="1">
+    <monster name="Electrode" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Magneton" x="-1" y="1" z="5" spawntime="80"/>
+    <monster name="Electabuzz" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1652" centery="935" centerz="5" radius="1">
+    <monster name="Electabuzz" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Raichu" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1657" centery="935" centerz="5" radius="1">
+    <monster name="Electabuzz" x="1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1646" centery="936" centerz="5" radius="1">
+    <monster name="Magneton" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Electabuzz" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1663" centery="936" centerz="5" radius="1">
+    <monster name="Magneton" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Magneton" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1640" centery="938" centerz="5" radius="1">
+    <monster name="Raichu" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Magneton" x="-1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1670" centery="938" centerz="5" radius="1">
+    <monster name="Magneton" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1674" centery="938" centerz="5" radius="1">
+    <monster name="Magneton" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1637" centery="942" centerz="5" radius="1">
+    <monster name="Magneton" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1645" centery="942" centerz="5" radius="1">
+    <monster name="Magneton" x="0" y="-1" z="5" spawntime="80"/>
+    <monster name="Electrode" x="-1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1665" centery="944" centerz="5" radius="1">
+    <monster name="Raichu" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1675" centery="944" centerz="5" radius="1">
+    <monster name="Raichu" x="0" y="-1" z="5" spawntime="80"/>
+    <monster name="Electrode" x="-1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1641" centery="947" centerz="5" radius="1">
+    <monster name="Magneton" x="1" y="-1" z="5" spawntime="80"/>
+    <monster name="Electabuzz" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1670" centery="947" centerz="5" radius="1">
+    <monster name="Raichu" x="0" y="-1" z="5" spawntime="80"/>
+    <monster name="Magneton" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1638" centery="950" centerz="5" radius="1">
+    <monster name="Magneton" x="0" y="-1" z="5" spawntime="80"/>
+    <monster name="Electrode" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1645" centery="950" centerz="5" radius="1">
+    <monster name="Raichu" x="0" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1651" centery="950" centerz="5" radius="1">
+    <monster name="Electrode" x="0" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1655" centery="950" centerz="5" radius="1">
+    <monster name="Raichu" x="1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1660" centery="950" centerz="5" radius="1">
+    <monster name="Electrode" x="1" y="0" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1665" centery="950" centerz="5" radius="1">
+    <monster name="Electabuzz" x="0" y="-1" z="5" spawntime="80"/>
+    <monster name="Electabuzz" x="1" y="1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1676" centery="951" centerz="5" radius="1">
+    <monster name="Electabuzz" x="-1" y="-1" z="5" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1709" centery="996" centerz="5" radius="1">
+    <monster name="Cubone" x="-1" y="-1" z="5" spawntime="60"/>
+    <monster name="Gastly" x="0" y="-1" z="5" spawntime="60"/>
+    <monster name="Haunter" x="1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1386" centery="1039" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1001" centery="1098" centerz="5" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="5" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1009" centery="1098" centerz="5" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="5" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1008" centery="1103" centerz="5" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="5" spawntime="90"/>
+  </spawn>
+  <spawn centerx="973" centery="1129" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="-1" y="-1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="971" centery="1132" centerz="5" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="5" spawntime="30"/>
+  </spawn>
+  <spawn centerx="968" centery="1147" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="970" centery="1153" centerz="5" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="5" spawntime="30"/>
+  </spawn>
+  <spawn centerx="992" centery="1166" centerz="5" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="5" spawntime="30"/>
+  </spawn>
+  <spawn centerx="994" centery="1173" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="987" centery="1183" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="996" centery="1184" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="1" y="0" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="989" centery="1187" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="0" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="995" centery="1191" centerz="5" radius="1">
+    <monster name="Pidgeotto" x="0" y="1" z="5" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1567" centery="675" centerz="6" radius="1">
+    <monster name="Kakuna" x="-1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1546" centery="676" centerz="6" radius="1">
+    <monster name="Metapod" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1538" centery="677" centerz="6" radius="1">
+    <monster name="Venonat" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1567" centery="678" centerz="6" radius="1">
+    <monster name="Kakuna" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1562" centery="679" centerz="6" radius="1">
+    <monster name="Kakuna" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1544" centery="682" centerz="6" radius="1">
+    <monster name="Metapod" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1589" centery="682" centerz="6" radius="1">
+    <monster name="Oddish" x="0" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1552" centery="683" centerz="6" radius="1">
+    <monster name="Metapod" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1563" centery="684" centerz="6" radius="1">
+    <monster name="Kakuna" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1499" centery="687" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1538" centery="687" centerz="6" radius="1">
+    <monster name="Butterfree" x="1" y="0" z="6" spawntime="80"/>
+    <monster name="Abra" x="0" y="1" z="6" spawntime="80"/>
+    <monster name="Venomoth" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1559" centery="687" centerz="6" radius="1">
+    <monster name="Venonat" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1580" centery="688" centerz="6" radius="1">
+    <monster name="Bellsprout" x="0" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1515" centery="689" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1524" centery="689" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1508" centery="691" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1571" centery="691" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1502" centery="692" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1542" centery="692" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1558" centery="692" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1600" centery="692" centerz="6" radius="1">
+    <monster name="Weepinbell" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1495" centery="693" centerz="6" radius="1">
+    <monster name="Oddish" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1532" centery="693" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1522" centery="695" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1565" centery="696" centerz="6" radius="1">
+    <monster name="Oddish" x="-1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1578" centery="696" centerz="6" radius="1">
+    <monster name="Oddish" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1591" centery="696" centerz="6" radius="1">
+    <monster name="Bellsprout" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1548" centery="698" centerz="6" radius="1">
+    <monster name="Caterpie" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1515" centery="700" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1518" centery="716" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1516" centery="729" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1517" centery="740" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1130" centery="744" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1143" centery="745" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1518" centery="749" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1116" centery="753" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1130" centery="753" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1142" centery="754" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1123" centery="758" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1136" centery="760" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1516" centery="760" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1113" centery="766" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1123" centery="766" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1138" centery="767" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1147" centery="769" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1133" centery="770" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1156" centery="770" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1167" centery="772" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1120" centery="773" centerz="6" radius="1">
+    <monster name="Sandshrew" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1143" centery="773" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1151" centery="775" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1160" centery="777" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1116" centery="782" centerz="6" radius="1">
+    <monster name="Sandshrew" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1131" centery="782" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1134" centery="785" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1163" centery="785" centerz="6" radius="1">
+    <monster name="Ekans" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1151" centery="788" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1156" centery="789" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1164" centery="792" centerz="6" radius="1">
+    <monster name="Ekans" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1119" centery="793" centerz="6" radius="1">
+    <monster name="Sandshrew" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1171" centery="795" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="0" z="6" spawntime="80"/>
+    <monster name="Nidoran Male" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1158" centery="796" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1130" centery="799" centerz="6" radius="1">
+    <monster name="Sandshrew" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1161" centery="801" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1174" centery="801" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1139" centery="803" centerz="6" radius="1">
+    <monster name="Sandshrew" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1167" centery="805" centerz="6" radius="1">
+    <monster name="Ekans" x="0" y="-1" z="6" spawntime="80"/>
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1045" centery="821" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1033" centery="823" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1011" centery="824" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="980" centery="829" centerz="6" radius="1">
+    <monster name="Pikachu" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="993" centery="830" centerz="6" radius="1">
+    <monster name="Pikachu" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1051" centery="831" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1017" centery="832" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1040" centery="833" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1008" centery="835" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="971" centery="838" centerz="6" radius="1">
+    <monster name="Pikachu" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="988" centery="839" centerz="6" radius="1">
+    <monster name="Pikachu" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="998" centery="839" centerz="6" radius="1">
+    <monster name="Pikachu" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1031" centery="840" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1038" centery="844" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="975" centery="846" centerz="6" radius="1">
+    <monster name="Pikachu" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1012" centery="846" centerz="6" radius="1"/>
+  <spawn centerx="1081" centery="846" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="998" centery="847" centerz="6" radius="1"/>
+  <spawn centerx="1183" centery="847" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1021" centery="848" centerz="6" radius="1"/>
+  <spawn centerx="1128" centery="849" centerz="6" radius="1">
+    <monster name="Arbok" x="-1" y="0" z="6" spawntime="80"/>
+    <monster name="Ekans" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1033" centery="850" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1120" centery="850" centerz="6" radius="1">
+    <monster name="Ariados" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="975" centery="851" centerz="6" radius="1">
+    <monster name="Pikachu" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1135" centery="851" centerz="6" radius="1">
+    <monster name="Arbok" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="986" centery="852" centerz="6" radius="1">
+    <monster name="Kakuna" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1077" centery="853" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1099" centery="853" centerz="6" radius="1">
+    <monster name="Beedrill" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1110" centery="854" centerz="6" radius="1">
+    <monster name="Ariados" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="995" centery="855" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="0" z="6" spawntime="40"/>
+    <monster name="Kakuna" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1006" centery="855" centerz="6" radius="1">
+    <monster name="Kakuna" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1197" centery="856" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1129" centery="857" centerz="6" radius="1">
+    <monster name="Ekans" x="-1" y="-1" z="6" spawntime="80"/>
+    <monster name="Ariados" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1186" centery="857" centerz="6" radius="1">
+    <monster name="Muk" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1145" centery="858" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1209" centery="858" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="986" centery="859" centerz="6" radius="1">
+    <monster name="Kakuna" x="-1" y="1" z="6" spawntime="40"/>
+    <monster name="Weedle" x="1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1015" centery="859" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1161" centery="859" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1175" centery="859" centerz="6" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="975" centery="860" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1038" centery="860" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1049" centery="860" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1081" centery="860" centerz="6" radius="1">
+    <monster name="Ariados" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1116" centery="860" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1008" centery="861" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1024" centery="862" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1100" centery="863" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1140" centery="863" centerz="6" radius="1">
+    <monster name="Ekans" x="0" y="-1" z="6" spawntime="80"/>
+    <monster name="Ekans" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1154" centery="864" centerz="6" radius="1">
+    <monster name="Arbok" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1090" centery="865" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1166" centery="865" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1199" centery="865" centerz="6" radius="1">
+    <monster name="Muk" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1184" centery="866" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="969" centery="867" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1002" centery="867" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1010" centery="867" centerz="6" radius="1">
+    <monster name="Caterpie" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1104" centery="867" centerz="6" radius="1">
+    <monster name="Beedrill" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1214" centery="867" centerz="6" radius="1">
+    <monster name="Muk" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="991" centery="868" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="40"/>
+    <monster name="Kakuna" x="0" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1080" centery="868" centerz="6" radius="1">
+    <monster name="Raticate" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1043" centery="869" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="977" centery="870" centerz="6" radius="1">
+    <monster name="Beedrill" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1019" centery="870" centerz="6" radius="1">
+    <monster name="Kakuna" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1142" centery="870" centerz="6" radius="1">
+    <monster name="Arbok" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1150" centery="870" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1162" centery="870" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1172" centery="870" centerz="6" radius="1">
+    <monster name="Arbok" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1191" centery="870" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1004" centery="871" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1117" centery="871" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1093" centery="872" centerz="6" radius="1">
+    <monster name="Nidorina" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1131" centery="872" centerz="6" radius="1">
+    <monster name="Beedrill" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1219" centery="873" centerz="6" radius="1">
+    <monster name="Muk" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1011" centery="874" centerz="6" radius="1">
+    <monster name="Metapod" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1109" centery="874" centerz="6" radius="1">
+    <monster name="Ariados" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1027" centery="875" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1084" centery="875" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1200" centery="875" centerz="6" radius="1">
+    <monster name="Muk" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="996" centery="876" centerz="6" radius="1">
+    <monster name="Metapod" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1034" centery="876" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1176" centery="876" centerz="6" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1167" centery="877" centerz="6" radius="1">
+    <monster name="Arbok" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1157" centery="878" centerz="6" radius="1">
+    <monster name="Arbok" x="0" y="-1" z="6" spawntime="80"/>
+    <monster name="Ekans" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1185" centery="878" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1212" centery="878" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1093" centery="879" centerz="6" radius="1">
+    <monster name="Nidorina" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1123" centery="879" centerz="6" radius="1">
+    <monster name="Beedrill" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1136" centery="879" centerz="6" radius="1">
+    <monster name="Ariados" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1005" centery="880" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="1" z="6" spawntime="40"/>
+    <monster name="Metapod" x="1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1022" centery="880" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1130" centery="880" centerz="6" radius="1">
+    <monster name="Beedrill" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="976" centery="882" centerz="6" radius="1">
+    <monster name="Butterfree" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1032" centery="882" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1045" centery="882" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="989" centery="883" centerz="6" radius="1">
+    <monster name="Butterfree" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1161" centery="883" centerz="6" radius="1">
+    <monster name="Grimer" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1112" centery="884" centerz="6" radius="1">
+    <monster name="Ariados" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1151" centery="884" centerz="6" radius="1">
+    <monster name="Ariados" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1165" centery="884" centerz="6" radius="1">
+    <monster name="Ekans" x="0" y="-1" z="6" spawntime="80"/>
+    <monster name="Ekans" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1012" centery="885" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1088" centery="885" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1197" centery="885" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1046" centery="886" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1121" centery="886" centerz="6" radius="1">
+    <monster name="Ariados" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1143" centery="886" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1173" centery="887" centerz="6" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1181" centery="888" centerz="6" radius="1">
+    <monster name="Grimer" x="-1" y="-1" z="6" spawntime="80"/>
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1206" centery="888" centerz="6" radius="1">
+    <monster name="Muk" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1215" centery="889" centerz="6" radius="1">
+    <monster name="Muk" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1020" centery="890" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1043" centery="890" centerz="6" radius="1">
+    <monster name="Weedle" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1104" centery="890" centerz="6" radius="1">
+    <monster name="Nidorino" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1131" centery="891" centerz="6" radius="1">
+    <monster name="Beedrill" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="984" centery="892" centerz="6" radius="1">
+    <monster name="Butterfree" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1000" centery="892" centerz="6" radius="1">
+    <monster name="Metapod" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1161" centery="892" centerz="6" radius="1">
+    <monster name="Beedrill" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1029" centery="893" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1033" centery="893" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1085" centery="893" centerz="6" radius="1">
+    <monster name="Nidorino" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1096" centery="893" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1177" centery="894" centerz="6" radius="1">
+    <monster name="Grimer" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1140" centery="895" centerz="6" radius="1">
+    <monster name="Beedrill" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1168" centery="896" centerz="6" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+    <monster name="Grimer" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1454" centery="896" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Bellsprout" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Noctowl" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Meowth" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1457" centery="896" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Abra" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Nidoran Female" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Snubbull" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1460" centery="896" centerz="6" radius="1">
+    <monster name="Oddish" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Gloom" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Pidgeotto" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1015" centery="898" centerz="6" radius="1">
+    <monster name="Metapod" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1101" centery="898" centerz="6" radius="1">
+    <monster name="Nidorina" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1065" centery="899" centerz="6" radius="1">
+    <monster name="Ledian" x="1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1131" centery="899" centerz="6" radius="1">
+    <monster name="Beedrill" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1210" centery="899" centerz="6" radius="1">
+    <monster name="Grimer" x="-1" y="-1" z="6" spawntime="80"/>
+    <monster name="Grimer" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1224" centery="901" centerz="6" radius="1">
+    <monster name="Muk" x="1" y="-1" z="6" spawntime="80"/>
+    <monster name="Grimer" x="-1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1176" centery="902" centerz="6" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="6" spawntime="80"/>
+    <monster name="Ekans" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1093" centery="903" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1139" centery="903" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1123" centery="904" centerz="6" radius="1">
+    <monster name="Beedrill" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1021" centery="906" centerz="6" radius="1">
+    <monster name="Caterpie" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1066" centery="906" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1101" centery="907" centerz="6" radius="1">
+    <monster name="Nidorino" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1012" centery="908" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1080" centery="908" centerz="6" radius="1">
+    <monster name="Butterfree" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1087" centery="909" centerz="6" radius="1"/>
+  <spawn centerx="1133" centery="909" centerz="6" radius="1">
+    <monster name="Nidorino" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1021" centery="910" centerz="6" radius="1">
+    <monster name="Weedle" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1114" centery="910" centerz="6" radius="1">
+    <monster name="Nidorina" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1124" centery="911" centerz="6" radius="1">
+    <monster name="Nidorina" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1013" centery="912" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1060" centery="912" centerz="6" radius="1">
+    <monster name="Ledyba" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1072" centery="912" centerz="6" radius="1">
+    <monster name="Butterfree" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1141" centery="912" centerz="6" radius="1">
+    <monster name="Nidorino" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1104" centery="914" centerz="6" radius="1">
+    <monster name="Nidorina" x="-1" y="0" z="6" spawntime="80"/>
+    <monster name="Nidorino" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1009" centery="915" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1096" centery="916" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1118" centery="917" centerz="6" radius="1">
+    <monster name="Nidorino" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1080" centery="918" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1129" centery="918" centerz="6" radius="1">
+    <monster name="Raticate" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1027" centery="919" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1068" centery="920" centerz="6" radius="1">
+    <monster name="Butterfree" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1111" centery="920" centerz="6" radius="1">
+    <monster name="Raticate" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1011" centery="921" centerz="6" radius="1">
+    <monster name="Caterpie" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1022" centery="921" centerz="6" radius="1">
+    <monster name="Caterpie" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1091" centery="921" centerz="6" radius="1">
+    <monster name="Nidorina" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1060" centery="922" centerz="6" radius="1">
+    <monster name="Ledyba" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1017" centery="924" centerz="6" radius="1">
+    <monster name="Weedle" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1237" centery="925" centerz="6" radius="1">
+    <monster name="Meowth" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1247" centery="925" centerz="6" radius="1">
+    <monster name="Persian" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1077" centery="927" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1239" centery="929" centerz="6" radius="1">
+    <monster name="Persian" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1245" centery="929" centerz="6" radius="1">
+    <monster name="Kadabra" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1017" centery="930" centerz="6" radius="1">
+    <monster name="Weedle" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1061" centery="931" centerz="6" radius="1">
+    <monster name="Ledyba" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1022" centery="932" centerz="6" radius="1">
+    <monster name="Caterpie" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1243" centery="933" centerz="6" radius="1">
+    <monster name="Murkrow" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1071" centery="934" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1011" centery="935" centerz="6" radius="1">
+    <monster name="Weedle" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1664" centery="935" centerz="6" radius="1">
+    <monster name="Electrode" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1651" centery="936" centerz="6" radius="1">
+    <monster name="Electabuzz" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1656" centery="936" centerz="6" radius="1">
+    <monster name="Electrode" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1674" centery="936" centerz="6" radius="1">
+    <monster name="Magneton" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1078" centery="937" centerz="6" radius="1">
+    <monster name="Butterfree" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1064" centery="939" centerz="6" radius="1">
+    <monster name="Ledyba" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1640" centery="940" centerz="6" radius="1">
+    <monster name="Electrode" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1014" centery="941" centerz="6" radius="1">
+    <monster name="Caterpie" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1668" centery="942" centerz="6" radius="1">
+    <monster name="Magneton" x="0" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1673" centery="942" centerz="6" radius="1">
+    <monster name="Electrode" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1675" centery="943" centerz="6" radius="1">
+    <monster name="Electrode" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1663" centery="944" centerz="6" radius="1">
+    <monster name="Raichu" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1009" centery="946" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1061" centery="947" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1639" centery="947" centerz="6" radius="1">
+    <monster name="Magneton" x="0" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1637" centery="948" centerz="6" radius="1">
+    <monster name="Electabuzz" x="-1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1645" centery="948" centerz="6" radius="1">
+    <monster name="Raichu" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1672" centery="948" centerz="6" radius="1">
+    <monster name="Electrode" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1656" centery="949" centerz="6" radius="1">
+    <monster name="Magneton" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1650" centery="950" centerz="6" radius="1">
+    <monster name="Magneton" x="1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1663" centery="950" centerz="6" radius="1">
+    <monster name="Raichu" x="-1" y="-1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1675" centery="950" centerz="6" radius="1">
+    <monster name="Electabuzz" x="1" y="0" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1483" centery="951" centerz="6" radius="1">
+    <npc name="Mark" x="0" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1241" centery="952" centerz="6" radius="1">
+    <monster name="Vulpix" x="-1" y="-1" z="6" spawntime="80"/>
+    <monster name="Houndour" x="0" y="-1" z="6" spawntime="80"/>
+    <monster name="Growlithe" x="1" y="-1" z="6" spawntime="80"/>
+    <monster name="Slugma" x="-1" y="0" z="6" spawntime="80"/>
+    <monster name="Ponyta" x="1" y="0" z="6" spawntime="80"/>
+    <monster name="Oddish" x="0" y="1" z="6" spawntime="80"/>
+    <monster name="Bellsprout" x="1" y="1" z="6" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1012" centery="953" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1083" centery="954" centerz="6" radius="1">
+    <monster name="Butterfree" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1057" centery="955" centerz="6" radius="1">
+    <monster name="Ledyba" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1067" centery="955" centerz="6" radius="1">
+    <monster name="Ledyba" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="923" centery="987" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1045" centery="987" centerz="6" radius="1">
+    <npc name="Mark" x="0" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1437" centery="990" centerz="6" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="6" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="916" centery="991" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="929" centery="991" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1673" centery="991" centerz="6" radius="1">
+    <npc name="Mark" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="921" centery="995" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1666" centery="997" centerz="6" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="6" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1578" centery="1001" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Meowth" x="1" y="0" z="6" spawntime="60"/>
+    <monster name="Rattata" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1581" centery="1001" centerz="6" radius="1">
+    <monster name="Pidgeotto" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Growlithe" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Mankey" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Sandshrew" x="1" y="0" z="6" spawntime="60"/>
+    <monster name="Ekans" x="-1" y="1" z="6" spawntime="60"/>
+    <monster name="Abra" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1584" centery="1001" centerz="6" radius="1">
+    <monster name="Vulpix" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Jigglypuff" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Kadabra" x="-1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1027" centery="1005" centerz="6" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="6" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="920" centery="1010" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="945" centery="1010" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="889" centery="1011" centerz="6" radius="1">
+    <monster name="Spearow" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="931" centery="1011" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="952" centery="1015" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="896" centery="1016" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="937" centery="1018" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="889" centery="1021" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="924" centery="1023" centerz="6" radius="1">
+    <monster name="Spearow" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="940" centery="1026" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="890" centery="1027" centerz="6" radius="1">
+    <monster name="Mankey" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="919" centery="1030" centerz="6" radius="1">
+    <monster name="Spearow" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="903" centery="1031" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="939" centery="1034" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="890" centery="1036" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="989" centery="1036" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1065" centery="1036" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1321" centery="1037" centerz="6" radius="1">
+    <monster name="Snubbull" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Granbull" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1011" centery="1038" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1084" centery="1038" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="927" centery="1039" centerz="6" radius="1">
+    <monster name="Spearow" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="981" centery="1039" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1000" centery="1039" centerz="6" radius="1">
+    <monster name="Sentret" x="1" y="0" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1079" centery="1039" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="901" centery="1040" centerz="6" radius="1">
+    <monster name="Mankey" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1053" centery="1040" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="917" centery="1042" centerz="6" radius="1">
+    <monster name="Ponyta" x="1" y="0" z="6" spawntime="120"/>
+  </spawn>
+  <spawn centerx="1017" centery="1042" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1040" centery="1042" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="886" centery="1044" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1069" centery="1044" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1465" centery="1044" centerz="6" radius="1">
+    <monster name="Bellsprout" x="0" y="-1" z="6" spawntime="60"/>
+    <monster name="Oddish" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1468" centery="1044" centerz="6" radius="1">
+    <monster name="Abra" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Mankey" x="0" y="-1" z="6" spawntime="60"/>
+    <monster name="Meowth" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1471" centery="1044" centerz="6" radius="1">
+    <monster name="Jigglypuff" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="936" centery="1045" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1024" centery="1045" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="949" centery="1046" centerz="6" radius="1">
+    <monster name="Nidoran Male" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="974" centery="1046" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="0" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1049" centery="1046" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1085" centery="1046" centerz="6" radius="1">
+    <monster name="Hoothoot" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1000" centery="1047" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="-1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1030" centery="1047" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="871" centery="1048" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1061" centery="1048" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1075" centery="1049" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1442" centery="1050" centerz="6" radius="1">
+    <monster name="Psyduck" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="882" centery="1051" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="892" centery="1051" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1035" centery="1051" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="903" centery="1052" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1025" centery="1052" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1043" centery="1052" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1055" centery="1052" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1070" centery="1052" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1404" centery="1052" centerz="6" radius="1">
+    <monster name="Psyduck" x="0" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="956" centery="1053" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="995" centery="1053" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="-1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1427" centery="1053" centerz="6" radius="1">
+    <monster name="Psyduck" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="928" centery="1054" centerz="6" radius="1">
+    <monster name="Spearow" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="979" centery="1054" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="874" centery="1055" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="939" centery="1055" centerz="6" radius="1">
+    <monster name="Spearow" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1065" centery="1055" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1437" centery="1055" centerz="6" radius="1">
+    <monster name="Drowzee" x="0" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="962" centery="1056" centerz="6" radius="1">
+    <monster name="Sentret" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1011" centery="1056" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1091" centery="1056" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="912" centery="1057" centerz="6" radius="1">
+    <monster name="Nidoran Female" x="0" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1025" centery="1057" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1409" centery="1057" centerz="6" radius="1">
+    <monster name="Psyduck" x="-1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1054" centery="1058" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1419" centery="1058" centerz="6" radius="1">
+    <monster name="Psyduck" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1081" centery="1059" centerz="6" radius="1">
+    <monster name="Hoothoot" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="991" centery="1060" centerz="6" radius="1">
+    <monster name="Sentret" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1430" centery="1060" centerz="6" radius="1">
+    <monster name="Drowzee" x="-1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1474" centery="1060" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="974" centery="1061" centerz="6" radius="1">
+    <monster name="Sentret" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="873" centery="1062" centerz="6" radius="1">
+    <monster name="Mankey" x="1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="891" centery="1062" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="0" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="900" centery="1062" centerz="6" radius="1">
+    <monster name="Mankey" x="1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1011" centery="1062" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1061" centery="1062" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1070" centery="1062" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1461" centery="1063" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1470" centery="1063" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1411" centery="1064" centerz="6" radius="1">
+    <monster name="Psyduck" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1443" centery="1064" centerz="6" radius="1">
+    <monster name="Drowzee" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="882" centery="1066" centerz="6" radius="1">
+    <monster name="Mankey" x="-1" y="-1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1003" centery="1066" centerz="6" radius="1">
+    <monster name="Sentret" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1045" centery="1066" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="974" centery="1067" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1026" centery="1067" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1053" centery="1067" centerz="6" radius="1">
+    <monster name="Hoothoot" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1033" centery="1068" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="967" centery="1069" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="990" centery="1070" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1043" centery="1070" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1017" centery="1071" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="45"/>
+  </spawn>
+  <spawn centerx="1055" centery="1073" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1028" centery="1075" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="969" centery="1076" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1007" centery="1076" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="997" centery="1077" centerz="6" radius="1">
+    <monster name="Sentret" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1050" centery="1079" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1057" centery="1081" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1037" centery="1082" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="962" centery="1083" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1020" centery="1084" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1005" centery="1085" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="998" centery="1086" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1061" centery="1086" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1032" centery="1088" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1056" centery="1089" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1013" centery="1090" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1067" centery="1090" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="995" centery="1091" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1003" centery="1091" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1022" centery="1091" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1039" centery="1091" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="967" centery="1092" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="979" centery="1095" centerz="6" radius="1">
+    <monster name="Sentret" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="971" centery="1098" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="987" centery="1098" centerz="6" radius="1">
+    <monster name="Sentret" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1001" centery="1099" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1007" centery="1099" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1038" centery="1099" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="977" centery="1100" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1055" centery="1100" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1015" centery="1101" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="6" spawntime="90"/>
+  </spawn>
+  <spawn centerx="994" centery="1102" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1047" centery="1102" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="970" centery="1104" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1030" centery="1106" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1020" centery="1107" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1055" centery="1107" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="965" centery="1110" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1041" centery="1111" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="975" centery="1112" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1014" centery="1112" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1019" centery="1113" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="991" centery="1114" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1006" centery="1114" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1057" centery="1115" centerz="6" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1597" centery="1116" centerz="6" radius="5">
+    <monster name="Pidgey" x="-3" y="-4" z="6" spawntime="60"/>
+    <monster name="Pidgeotto" x="-2" y="-4" z="6" spawntime="60"/>
+    <monster name="Rattata" x="-3" y="-3" z="6" spawntime="60"/>
+    <monster name="Raticate" x="-2" y="-3" z="6" spawntime="60"/>
+    <monster name="Spearow" x="-3" y="-2" z="6" spawntime="60"/>
+    <monster name="Sandshrew" x="-2" y="-2" z="6" spawntime="60"/>
+    <monster name="Drowzee" x="-3" y="-1" z="6" spawntime="60"/>
+    <monster name="Ekans" x="-2" y="-1" z="6" spawntime="60"/>
+    <monster name="Hypno" x="-3" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="967" centery="1117" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="981" centery="1118" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1034" centery="1118" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="997" centery="1119" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1012" centery="1119" centerz="6" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1022" centery="1119" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1042" centery="1120" centerz="6" radius="1">
+    <monster name="Rattata" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="961" centery="1122" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="986" centery="1122" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="977" centery="1124" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="969" centery="1125" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="983" centery="1127" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="988" centery="1132" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="979" centery="1133" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="986" centery="1137" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="969" centery="1139" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="980" centery="1141" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="974" centery="1144" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="986" centery="1144" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="981" centery="1149" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="988" centery="1149" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="975" centery="1150" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="981" centery="1157" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="988" centery="1157" centerz="6" radius="1">
+    <monster name="Pidgey" x="-1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="972" centery="1158" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1039" centery="1159" centerz="6" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="6" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1057" centery="1159" centerz="6" radius="1">
+    <npc name="Mark" x="0" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="977" centery="1162" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="974" centery="1166" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="0" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="982" centery="1169" centerz="6" radius="1">
+    <monster name="Pidgey" x="1" y="1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="986" centery="1174" centerz="6" radius="1">
+    <monster name="Pidgey" x="0" y="-1" z="6" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1499" centery="700" centerz="7" radius="1">
+    <monster name="Oddish" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1565" centery="701" centerz="7" radius="1">
+    <monster name="Psyduck" x="1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1654" centery="701" centerz="7" radius="1">
+    <monster name="Kingler" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1583" centery="702" centerz="7" radius="1">
+    <monster name="Poliwag" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1597" centery="702" centerz="7" radius="1">
+    <monster name="Krabby" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1529" centery="703" centerz="7" radius="1">
+    <monster name="Poliwag" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1614" centery="703" centerz="7" radius="1">
+    <monster name="Poliwag" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1644" centery="703" centerz="7" radius="1">
+    <monster name="Poliwag" x="-1" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1503" centery="704" centerz="7" radius="1">
+    <monster name="Bellsprout" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1542" centery="705" centerz="7" radius="1">
+    <monster name="Poliwag" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1628" centery="705" centerz="7" radius="1">
+    <monster name="Krabby" x="1" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1559" centery="706" centerz="7" radius="1">
+    <monster name="Krabby" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1574" centery="706" centerz="7" radius="1">
+    <monster name="Poliwag" x="1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1588" centery="708" centerz="7" radius="1">
+    <monster name="Slowpoke" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1499" centery="709" centerz="7" radius="1">
+    <monster name="Bellsprout" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1549" centery="709" centerz="7" radius="1">
+    <monster name="Krabby" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1608" centery="709" centerz="7" radius="1">
+    <monster name="Psyduck" x="-1" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1594" centery="710" centerz="7" radius="1">
+    <monster name="Psyduck" x="-1" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1527" centery="711" centerz="7" radius="1">
+    <monster name="Psyduck" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1621" centery="711" centerz="7" radius="1">
+    <monster name="Slowpoke" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1653" centery="711" centerz="7" radius="1">
+    <monster name="Kingler" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1640" centery="712" centerz="7" radius="1">
+    <monster name="Krabby" x="-1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1504" centery="715" centerz="7" radius="1">
+    <monster name="Oddish" x="-1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1549" centery="717" centerz="7" radius="1">
+    <monster name="Slowpoke" x="1" y="-1" z="7" spawntime="40"/>
+    <monster name="Slowpoke" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1525" centery="720" centerz="7" radius="1">
+    <monster name="Poliwag" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1500" centery="721" centerz="7" radius="1">
+    <monster name="Bellsprout" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1532" centery="721" centerz="7" radius="1">
+    <monster name="Slowpoke" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1141" centery="722" centerz="7" radius="1">
+    <monster name="Zubat" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1542" centery="722" centerz="7" radius="1">
+    <monster name="Slowpoke" x="1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1128" centery="725" centerz="7" radius="1">
+    <monster name="Zubat" x="1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1505" centery="727" centerz="7" radius="1">
+    <monster name="Bellsprout" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1150" centery="730" centerz="7" radius="1">
+    <monster name="Zubat" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1523" centery="730" centerz="7" radius="1">
+    <monster name="Psyduck" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1123" centery="733" centerz="7" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1508" centery="733" centerz="7" radius="1">
+    <monster name="Oddish" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1153" centery="736" centerz="7" radius="1">
+    <monster name="Zubat" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1140" centery="738" centerz="7" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1526" centery="738" centerz="7" radius="1">
+    <monster name="Poliwag" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1122" centery="740" centerz="7" radius="1">
+    <monster name="Zubat" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1157" centery="747" centerz="7" radius="1">
+    <monster name="Zubat" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1524" centery="751" centerz="7" radius="1">
+    <monster name="Psyduck" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1144" centery="753" centerz="7" radius="1">
+    <monster name="Zubat" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1134" centery="754" centerz="7" radius="1">
+    <monster name="Zubat" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1519" centery="759" centerz="7" radius="1">
+    <monster name="Poliwag" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1525" centery="759" centerz="7" radius="1">
+    <monster name="Poliwag" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1127" centery="761" centerz="7" radius="1">
+    <monster name="Zubat" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1512" centery="761" centerz="7" radius="1">
+    <monster name="Psyduck" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1128" centery="771" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1129" centery="777" centerz="7" radius="1">
+    <monster name="Sandshrew" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1139" centery="781" centerz="7" radius="1">
+    <monster name="Sandshrew" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1121" centery="782" centerz="7" radius="1">
+    <monster name="Sandshrew" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1123" centery="789" centerz="7" radius="1">
+    <monster name="Sandshrew" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1141" centery="790" centerz="7" radius="1">
+    <monster name="Sandshrew" x="1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1133" centery="794" centerz="7" radius="1">
+    <monster name="Sandshrew" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1021" centery="833" centerz="7" radius="1">
+    <monster name="Spinarak" x="1" y="0" z="7" spawntime="40"/>
+    <monster name="Spinarak" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1034" centery="838" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1014" centery="840" centerz="7" radius="1">
+    <monster name="Ariados" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1040" centery="846" centerz="7" radius="1">
+    <monster name="Spinarak" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1022" centery="848" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1031" centery="848" centerz="7" radius="1">
+    <monster name="Spinarak" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1010" centery="849" centerz="7" radius="1">
+    <monster name="Ariados" x="1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1023" centery="855" centerz="7" radius="1">
+    <monster name="Spinarak" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1043" centery="857" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1006" centery="858" centerz="7" radius="1">
+    <monster name="Ariados" x="-1" y="0" z="7" spawntime="40"/>
+    <monster name="Spinarak" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1022" centery="863" centerz="7" radius="1">
+    <monster name="Ariados" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1040" centery="865" centerz="7" radius="1">
+    <monster name="Spinarak" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1014" centery="866" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1031" centery="868" centerz="7" radius="1">
+    <monster name="Spinarak" x="0" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1017" centery="873" centerz="7" radius="1">
+    <monster name="Ariados" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1036" centery="874" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1024" centery="875" centerz="7" radius="1">
+    <monster name="Spinarak" x="0" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1663" centery="877" centerz="7" radius="1">
+    <npc name="Mark" x="0" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1044" centery="880" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="0" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1656" centery="883" centerz="7" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="7" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1023" centery="884" centerz="7" radius="1">
+    <monster name="Spinarak" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1037" centery="885" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1029" centery="888" centerz="7" radius="1">
+    <monster name="Spinarak" x="-1" y="-1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1059" centery="889" centerz="7" radius="1">
+    <monster name="Kakuna" x="1" y="-1" z="7" spawntime="40"/>
+    <monster name="Beedrill" x="-1" y="0" z="7" spawntime="40"/>
+    <monster name="Pidgey" x="0" y="1" z="7" spawntime="40"/>
+    <monster name="Pidgeotto" x="1" y="1" z="7" spawntime="40"/>
+  </spawn>
+  <spawn centerx="1063" centery="889" centerz="7" radius="1"/>
+  <spawn centerx="1674" centery="896" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Raticate" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Sandshrew" x="1" y="0" z="7" spawntime="60"/>
+    <monster name="Spearow" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Fearow" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1677" centery="896" centerz="7" radius="1">
+    <monster name="Nidoran Female" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Nidoran Male" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Nidorina" x="1" y="-1" z="7" spawntime="60"/>
+    <monster name="Ekans" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Machop" x="1" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1680" centery="896" centerz="7" radius="1">
+    <monster name="Nidorino" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Venonat" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Venomoth" x="1" y="-1" z="7" spawntime="60"/>
+    <monster name="Quagsire" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1195" centery="906" centerz="7" radius="1">
+    <monster name="Meowth" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1204" centery="909" centerz="7" radius="1">
+    <monster name="Persian" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1190" centery="910" centerz="7" radius="1">
+    <monster name="Persian" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1206" centery="915" centerz="7" radius="1">
+    <monster name="Meowth" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1189" centery="918" centerz="7" radius="1">
+    <monster name="Persian" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1199" centery="921" centerz="7" radius="1">
+    <monster name="Meowth" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1247" centery="925" centerz="7" radius="1">
+    <monster name="Persian" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1208" centery="927" centerz="7" radius="1">
+    <monster name="Meowth" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1240" centery="927" centerz="7" radius="1">
+    <monster name="Abra" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1192" centery="928" centerz="7" radius="1">
+    <monster name="Meowth" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1243" centery="928" centerz="7" radius="1">
+    <monster name="Persian" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1666" centery="931" centerz="7" radius="1">
+    <monster name="Pikachu" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1201" centery="933" centerz="7" radius="1">
+    <monster name="Persian" x="1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1242" centery="933" centerz="7" radius="1">
+    <monster name="Meowth" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1212" centery="935" centerz="7" radius="1">
+    <monster name="Meowth" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1655" centery="935" centerz="7" radius="1">
+    <monster name="Voltorb" x="-1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1232" centery="936" centerz="7" radius="1">
+    <monster name="Meowth" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1651" centery="936" centerz="7" radius="1">
+    <monster name="Magnemite" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1665" centery="936" centerz="7" radius="1">
+    <monster name="Pikachu" x="1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1638" centery="937" centerz="7" radius="1">
+    <monster name="Pikachu" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1642" centery="937" centerz="7" radius="1">
+    <monster name="Voltorb" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1660" centery="939" centerz="7" radius="1">
+    <monster name="Pikachu" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1670" centery="939" centerz="7" radius="1">
+    <monster name="Voltorb" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1221" centery="940" centerz="7" radius="1">
+    <monster name="Persian" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1651" centery="940" centerz="7" radius="1">
+    <monster name="Pikachu" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1210" centery="941" centerz="7" radius="1">
+    <monster name="Persian" x="-1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1242" centery="941" centerz="7" radius="1">
+    <monster name="Meowth" x="1" y="-1" z="7" spawntime="80"/>
+    <monster name="Persian" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1645" centery="943" centerz="7" radius="1">
+    <monster name="Voltorb" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1637" centery="944" centerz="7" radius="1">
+    <monster name="Magnemite" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1664" centery="944" centerz="7" radius="1">
+    <monster name="Magnemite" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1227" centery="945" centerz="7" radius="1">
+    <monster name="Persian" x="-1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1651" centery="945" centerz="7" radius="1">
+    <monster name="Magnemite" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1660" centery="945" centerz="7" radius="1">
+    <monster name="Voltorb" x="-1" y="-1" z="7" spawntime="80"/>
+    <monster name="Magnemite" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1681" centery="945" centerz="7" radius="1">
+    <monster name="Magnemite" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1672" centery="948" centerz="7" radius="1">
+    <monster name="Pikachu" x="0" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1636" centery="950" centerz="7" radius="1">
+    <monster name="Grimer" x="1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1646" centery="950" centerz="7" radius="1">
+    <monster name="Grimer" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1660" centery="950" centerz="7" radius="1">
+    <monster name="Magnemite" x="1" y="0" z="7" spawntime="80"/>
+    <monster name="Voltorb" x="-1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1681" centery="951" centerz="7" radius="1">
+    <monster name="Magnemite" x="0" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1638" centery="956" centerz="7" radius="1">
+    <monster name="Grimer" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1650" centery="957" centerz="7" radius="1">
+    <monster name="Grimer" x="-1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1673" centery="957" centerz="7" radius="1">
+    <monster name="Pikachu" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1659" centery="958" centerz="7" radius="1">
+    <monster name="Magnemite" x="1" y="-1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1580" centery="986" centerz="7" radius="1">
+    <monster name="Golem" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Graveler" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Rhydon" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Rhyhorn" x="0" y="1" z="7" spawntime="60"/>
+    <monster name="Onix" x="1" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="983" centery="1055" centerz="7" radius="1">
+    <monster name="Sentret" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="991" centery="1057" centerz="7" radius="1">
+    <monster name="Sentret" x="0" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="983" centery="1063" centerz="7" radius="1">
+    <monster name="Sentret" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="990" centery="1064" centerz="7" radius="1">
+    <monster name="Furret" x="-1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="999" centery="1068" centerz="7" radius="1">
+    <monster name="Furret" x="1" y="1" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1000" centery="1072" centerz="7" radius="1">
+    <monster name="Sentret" x="-1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="978" centery="1076" centerz="7" radius="1">
+    <monster name="Sentret" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1457" centery="1076" centerz="7" radius="1">
+    <npc name="Nurse Chansey" x="0" y="0" z="7" spawntime="30"/>
+    <npc name="Nurse" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1000" centery="1079" centerz="7" radius="1">
+    <monster name="Sentret" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="981" centery="1080" centerz="7" radius="1">
+    <monster name="Furret" x="-1" y="0" z="7" spawntime="80"/>
+  </spawn>
+  <spawn centerx="998" centery="1082" centerz="7" radius="1"/>
+  <spawn centerx="993" centery="1083" centerz="7" radius="1">
+    <monster name="Sentret" x="-1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="986" centery="1086" centerz="7" radius="1">
+    <monster name="Sentret" x="-1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1456" centery="1089" centerz="7" radius="1">
+    <monster name="Squirtle" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1004" centery="1098" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1001" centery="1100" centerz="7" radius="1">
+    <monster name="Raticate" x="0" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1008" centery="1102" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1048" centery="1104" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1052" centery="1106" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1050" centery="1110" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1492" centery="1111" centerz="7" radius="1">
+    <npc name="Mark" x="0" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1043" centery="1113" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1059" centery="1113" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1040" centery="1118" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1051" centery="1119" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1058" centery="1122" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1049" centery="1128" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1064" centery="1128" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1056" centery="1131" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="0" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1036" centery="1159" centerz="7" radius="1">
+    <monster name="Raticate" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1044" centery="1162" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="7" spawntime="30"/>
+    <monster name="Rattata" x="1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1058" centery="1165" centerz="7" radius="1">
+    <monster name="Raticate" x="-1" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1046" centery="1168" centerz="7" radius="1">
+    <monster name="Raticate" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1060" centery="1172" centerz="7" radius="1">
+    <monster name="Raticate" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1052" centery="1176" centerz="7" radius="1">
+    <monster name="Rattata" x="1" y="-1" z="7" spawntime="30"/>
+    <monster name="Rattata" x="-1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1024" centery="1178" centerz="7" radius="1">
+    <monster name="Tangela" x="-1" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1045" centery="1179" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="7" spawntime="30"/>
+    <monster name="Rattata" x="1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1032" centery="1183" centerz="7" radius="1">
+    <monster name="Tangela" x="1" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1053" centery="1185" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+    <monster name="Rattata" x="1" y="1" z="7" spawntime="30"/>
+  </spawn>
+  <spawn centerx="1028" centery="1189" centerz="7" radius="1">
+    <monster name="Tangela" x="0" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1055" centery="1191" centerz="7" radius="1">
+    <monster name="Rattata" x="-1" y="-1" z="7" spawntime="30"/>
+    <monster name="Raticate" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1045" centery="1192" centerz="7" radius="1">
+    <monster name="Rattata" x="0" y="-1" z="7" spawntime="30"/>
+    <monster name="Raticate" x="-1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1033" centery="1195" centerz="7" radius="1">
+    <monster name="Tangela" x="0" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1027" centery="1199" centerz="7" radius="1">
+    <monster name="Tangela" x="1" y="-1" z="7" spawntime="90"/>
+  </spawn>
+  <spawn centerx="1635" centery="845" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1708" centery="850" centerz="8" radius="1">
+    <monster name="Cubone" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1627" centery="851" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1646" centery="852" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1694" centery="855" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1681" centery="856" centerz="8" radius="1">
+    <monster name="Machop" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1704" centery="857" centerz="8" radius="1">
+    <monster name="Cubone" x="0" y="-1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1655" centery="859" centerz="8" radius="1">
+    <monster name="Zubat" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1666" centery="859" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1605" centery="860" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1616" centery="860" centerz="8" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1624" centery="860" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="-1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1674" centery="860" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1714" centery="860" centerz="8" radius="1">
+    <monster name="Cubone" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1635" centery="861" centerz="8" radius="1">
+    <monster name="Machop" x="0" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1645" centery="863" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1571" centery="866" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1586" centery="866" centerz="8" radius="1">
+    <monster name="Geodude" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1682" centery="866" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1708" centery="867" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1600" centery="868" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1660" centery="868" centerz="8" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1577" centery="869" centerz="8" radius="1">
+    <monster name="Machop" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1584" centery="874" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1656" centery="875" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1666" centery="875" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1577" centery="876" centerz="8" radius="1">
+    <monster name="Geodude" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1707" centery="876" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1569" centery="878" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1604" centery="878" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1735" centery="879" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1744" centery="881" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1596" centery="883" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1660" centery="884" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1701" centery="884" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1720" centery="885" centerz="8" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1730" centery="887" centerz="8" radius="1">
+    <monster name="Cubone" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1739" centery="887" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1712" centery="888" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1749" centery="889" centerz="8" radius="1">
+    <monster name="Machop" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1655" centery="890" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1666" centery="890" centerz="8" radius="1">
+    <monster name="Geodude" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1675" centery="890" centerz="8" radius="1">
+    <monster name="Zubat" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1685" centery="890" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1598" centery="892" centerz="8" radius="1">
+    <monster name="Machop" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1590" centery="895" centerz="8" radius="1">
+    <monster name="Geodude" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1730" centery="895" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1740" centery="895" centerz="8" radius="1">
+    <monster name="Cubone" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1753" centery="897" centerz="8" radius="1">
+    <monster name="Machop" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1586" centery="902" centerz="8" radius="1">
+    <monster name="Machop" x="-1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1597" centery="903" centerz="8" radius="1">
+    <monster name="Geodude" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1741" centery="905" centerz="8" radius="1">
+    <monster name="Machop" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1588" centery="909" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1572" centery="916" centerz="8" radius="1">
+    <monster name="Zubat" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1587" centery="922" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1643" centery="929" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1650" centery="930" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1663" centery="932" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1636" centery="934" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="0" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1654" centery="935" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="0" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1670" centery="935" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1640" centery="939" centerz="8" radius="1">
+    <monster name="Muk" x="-1" y="0" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1679" centery="939" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1662" centery="940" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="-1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1641" centery="946" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="-1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1680" centery="947" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1657" centery="949" centerz="8" radius="1">
+    <monster name="Muk" x="0" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1667" centery="951" centerz="8" radius="1">
+    <monster name="Muk" x="1" y="1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1649" centery="952" centerz="8" radius="1">
+    <monster name="Muk" x="-1" y="0" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1676" centery="952" centerz="8" radius="1">
+    <monster name="Muk" x="-1" y="-1" z="8" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1602" centery="962" centerz="8" radius="1">
+    <monster name="Zubat" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1744" centery="969" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1721" centery="982" centerz="8" radius="1">
+    <monster name="Zubat" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1732" centery="982" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1629" centery="990" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1672" centery="1003" centerz="8" radius="1">
+    <monster name="Zubat" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1683" centery="1003" centerz="8" radius="1">
+    <monster name="Zubat" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1362" centery="1037" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1373" centery="1039" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1366" centery="1044" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1387" centery="1045" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1378" centery="1046" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1400" centery="1049" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1391" centery="1052" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1407" centery="1054" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1425" centery="1054" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1417" centery="1058" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1443" centery="1060" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1436" centery="1064" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1461" centery="1066" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1449" centery="1068" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1458" centery="1073" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1466" centery="1075" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1476" centery="1076" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1487" centery="1080" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1499" centery="1086" centerz="8" radius="1">
+    <monster name="Diglett" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1481" centery="1087" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1491" centery="1089" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1502" centery="1092" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1509" centery="1098" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1517" centery="1101" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1528" centery="1102" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1539" centery="1105" centerz="8" radius="1">
+    <monster name="Diglett" x="1" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1569" centery="1106" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="-1" z="8" spawntime="60"/>
+    <monster name="Dugtrio" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1551" centery="1108" centerz="8" radius="1">
+    <monster name="Diglett" x="0" y="-1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1627" centery="825" centerz="9" radius="1">
+    <monster name="Graveler" x="-1" y="-1" z="9" spawntime="80"/>
+    <monster name="Machoke" x="0" y="-1" z="9" spawntime="80"/>
+    <monster name="Onix" x="1" y="-1" z="9" spawntime="80"/>
+    <monster name="Marowak" x="-1" y="1" z="9" spawntime="80"/>
+    <monster name="Kangaskhan" x="1" y="1" z="9" spawntime="80"/>
+  </spawn>
+  <spawn centerx="1543" centery="805" centerz="10" radius="1"/>
+</spawns>
